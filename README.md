@@ -63,7 +63,7 @@ My position:
 
 Accepted refinements:
 - A real contradiction would need the same thing to be yellow and not yellow, in the same respect, at the same time. That's an attempt to draw a distinction and not draw it. Nothing gets picked out, so nothing is excluded from reality.
-- In experience, "not-yellow" is always something positive, like blue. Negation lives in language, not in the absolute.
+- Contradiction lives in language, not in the absolute.
 - Consistency still has a role, but as **a tool for checking whether a label points at anything**, not a law that limits reality. We know "the largest prime number" refers to nothing because we can prove it.
 
 ### 3.4 The absolute carries no information
